@@ -140,7 +140,7 @@ transform: rotate(-45deg) translate(10px, -5px);
     transform: none;
 }
 
-/* SECCTIONS */
+/* SECTIONS */
 
 section{
     padding-top: 4vh;
@@ -303,8 +303,8 @@ section{
 }
 
 .section__pic-container{
-    height: 400px;
-    width: 400px;
+    height: 395px;
+    width: 395px;
     margin: auto 0;
 }
 
