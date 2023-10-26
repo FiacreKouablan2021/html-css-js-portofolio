@@ -283,7 +283,7 @@ section{
 }
 
 .about-pic{
-    border-radius: 40%;
+    border: radius 50%;
 }
 
 .arrow{
