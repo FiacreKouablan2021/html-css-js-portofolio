@@ -168,7 +168,11 @@ section{
     height: 400px;
     width: 400px;
     margin: auto 0;
-    border-radius: 50%;
+    border-radius: 2rem;
+}
+
+.profile-pic{
+    border-radius: 55%;
 }
 
 .section__text{
@@ -279,7 +283,7 @@ section{
 }
 
 .about-pic{
-    border-radius: 50%;
+    border-radius: 55%;
 }
 
 .arrow{
